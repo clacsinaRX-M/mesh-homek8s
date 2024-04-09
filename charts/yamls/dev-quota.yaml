@@ -7,4 +7,4 @@ spec:
   hard:
     pods: "6"
     services.loadbalancers: "0"
-    services.nodeports: "0"
+    services.nodeports: "1"
